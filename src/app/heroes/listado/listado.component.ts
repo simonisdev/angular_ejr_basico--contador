@@ -13,8 +13,4 @@ export class ListadoComponent {
     this.heroeBorrado = this.heroes.shift() || '';
   }
 
-  // invertirLista(){
-  //   this.heroes.reverse();
-  // }
-
 }
